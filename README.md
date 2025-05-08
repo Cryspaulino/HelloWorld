@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: Hello World
 
-**Project Description**:
+**Project Description**: This is a project that prints three simple statements.
 
-**Project Goals**:
+**Project Goals**: To set up an environment and see how the other projects will work.
 
 ## Instructions for Build and Use
 
